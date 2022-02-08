@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProMobile.VideoAPI", "ProMobile.VideoAPI\ProMobile.VideoAPI.csproj", "{283D5EEC-84E5-43DC-9F88-408853F869E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{283D5EEC-84E5-43DC-9F88-408853F869E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283D5EEC-84E5-43DC-9F88-408853F869E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283D5EEC-84E5-43DC-9F88-408853F869E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283D5EEC-84E5-43DC-9F88-408853F869E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DE01539-4CD4-4C87-B0F0-AF9D043CD1D4}
+	EndGlobalSection
+EndGlobal
