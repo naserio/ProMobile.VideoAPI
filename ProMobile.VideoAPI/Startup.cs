@@ -29,8 +29,8 @@ namespace ProMobile.VideoAPI
             services.Configure<TwilioSettings>(settings =>
             {
                 settings.AccountSid = "AC672c7b5023275442342d357cda7a0291";
-                settings.ApiSecret = "FWvzJ8WEXY8eunvLMSPwdYRnO8KJ3Bwi";
-                settings.ApiKey = "SK42f2c511c1de57927bb4a5df07ad27f8";
+                settings.ApiSecret = "add";
+                settings.ApiKey = "add";
             })
                    .AddTransient<IVideoService, VideoService>();
             services.AddSwaggerGen();
