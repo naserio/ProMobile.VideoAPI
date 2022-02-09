@@ -28,7 +28,7 @@ namespace ProMobile.VideoAPI
         {
             services.Configure<TwilioSettings>(settings =>
             {
-                settings.AccountSid = "AC672c7b5023275442342d357cda7a0291";
+                settings.AccountSid = "add";
                 settings.ApiSecret = "add";
                 settings.ApiKey = "add";
             })
